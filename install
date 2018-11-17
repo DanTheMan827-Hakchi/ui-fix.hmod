@@ -1,0 +1,1 @@
+rm -rf "$mountpoint/var/lib/clover/profiles/0/home-menu"
